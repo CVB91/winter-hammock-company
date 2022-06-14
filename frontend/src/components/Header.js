@@ -20,7 +20,7 @@ const Header = () => {
       <Navbar bg='primary' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>The Winter Hammock Company</Navbar.Brand>
+            <Navbar.Brand className='logo'>The Winter Hammock Company</Navbar.Brand>
           </LinkContainer>
 
           <Navbar.Toggle aria-controls='basic-navbar-nav' />

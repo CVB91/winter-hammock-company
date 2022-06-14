@@ -1,3 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.logo{
+  font-family: 'Lobster', cursive;
+  font-size: 1.75rem;
+}
+
 main {
   min-height: 80vh;
 }
@@ -19,6 +26,7 @@ h2 {
   font-size: 1.4rem;
   padding: 0.5rem 0;
 }
+
 
 /* carousel */
 .carousel-item-next,
